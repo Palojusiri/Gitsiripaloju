@@ -1,0 +1,8 @@
+Branch topic 
+git checkout b1
+
+create a branch and move to branch
+
+git checkout -b b2
+
+
