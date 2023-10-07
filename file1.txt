@@ -1,1 +1,5 @@
 Welcome to GitPractice session...!
+3 commands are done just now.
+hi
+hello
+welcome
